@@ -1,14 +1,14 @@
 {
-  "name": "suit-baze",
-  "version": "1.12.1",
+  "name": "Fondasi",
+  "version": "1.0.0",
   "authors": [
-    "Suitmedia"
+    "Brother in Code"
   ],
-  "description": "suit-baze is a Front-end starter kit base on HTML5 Boilerplate, modified by Suitmedia",
+  "description": "Fondasi is a suit-baze forked front-end template that implement ITCSS methodology.",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ImBobby/suit-baze"
+    "url": "https://github.com/brother-in-code/fondasi"
   },
   "devDependencies": {
     "del": "^1.1.1",
