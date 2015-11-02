@@ -72,7 +72,7 @@ package.json
     * [`gulp`](https://github.com/brother-in-code/fondasi/blob/master/gulpfile.js#L232) - compile all assets in `dev` directory to `assets` directory.
     * [`gulp watch`](https://github.com/brother-in-code/fondasi/blob/master/gulpfile.js#L240) - Has same functionality as `gulp`, but with watch.
     * [`gulp clean`](https://github.com/brother-in-code/fondasi/blob/master/gulpfile.js#L220) - Delete `assets` directory.
-    * [`gulp build'](https://github.com/brother-in-code/fondasi/blob/master/gulpfile.js#L278) - Delete `assets` directory and recompile assets to production ready to `assets` directory.
+    * [`gulp build`](https://github.com/brother-in-code/fondasi/blob/master/gulpfile.js#L278) - Delete `assets` directory and recompile assets to production ready to `assets` directory.
     * [`gulp livereload`](https://github.com/brother-in-code/fondasi/blob/master/gulpfile.js#L266) - The command says it all. Run this command after `gulp watch`
 
 ## Requirement
